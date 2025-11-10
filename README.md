@@ -18,6 +18,7 @@ The model learns from 50,000 labeled movie reviews and predicts whether a given 
 - ✅ Trained on IMDB dataset (`tensorflow.keras.datasets.imdb`)
 - ✅ Deployed on Streamlit Cloud for real-time predictions
 
+
 ---
 
 ## 📊 Model Architecture
@@ -36,6 +37,8 @@ The model learns from 50,000 labeled movie reviews and predicts whether a given 
 | `"Worst movie ever. Waste of time."` | ❌ Negative |
 
 ---
+
+Hosted link - https://movie-review-sentiment-analysis-rnn-fk.streamlit.app/
 
 ## 🛠️ Tech Stack
 
